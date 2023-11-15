@@ -29,6 +29,7 @@ OPENAI_API_KEY=SuaChaveDeAPIAqui
 Para resolver isso, você pode usar uma biblioteca como node-fetch que fornece uma implementação fetch para ambientes Node.js. Antes de usar o fetch, você precisa instalá-lo usando o npm (Node Package Manager). Você pode fazer isso com o seguinte comando:
 
 $ npm install node-fetch
+
 Depois de instalado, você pode ajustar o seu código da seguinte forma:
 
 ***import fetch from "node-fetch"; // Importe a biblioteca node-fetch***
