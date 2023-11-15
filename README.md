@@ -10,7 +10,10 @@ Este projeto demonstra a integração do modelo de linguagem GPT-3.5-turbo da Op
 Antes de executar o projeto, certifique-se de configurar o arquivo `.env` com suas credenciais da API da OpenAI:
 
 #Instale as dependências usando:
+
 $ npm init -y
+
+$ npm install openai
 
 #Crie um arquivo chamado .env na raiz do seu projeto.
 
